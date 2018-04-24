@@ -1,0 +1,60 @@
+@import url('https://fonts.googleapis.com/css?family=PT+Sans+Narrow');
+
+
+h1 {
+    text-align: center;
+    
+
+}
+
+body {
+    font-family: 'PT Sans Narrow', sans-serif;
+    background-image: url('https://img00.deviantart.net/ef20/i/2016/078/1/8/san_diego_pano_by_ialo_wa-d9v6ugk.jpg');
+    background-repeat: no-repeat;
+    background-position: center;
+    background-attachment: fixed;
+    background-size: 110%;
+}
+
+table {
+    border-collapse: collapse;
+    width: 75%;
+    table-layout: fixed;
+    border: 3px solid rgb(9, 112, 23);
+    margin-left: auto;
+    margin-right: auto;
+    background: whitesmoke;
+    opacity: .7;
+}
+
+th {
+    text-align: left;
+    padding: 8px;
+    font-size: 20px;
+    font-weight: 900;
+}
+
+td {
+    padding: 20px;
+    font-size: 15px;
+    font-weight: bold;
+}
+
+button {
+    color: black;
+    background: transparent;
+    border: 2px solid rgb(9, 112, 23); 
+    margin: auto;
+    width: 30%;
+    border-radius: 10px;
+    padding: 10px 20px;
+    display: flex;
+}
+
+button:hover {
+    background-image: url('https://discordemoji.com/assets/emoji/2009_meme.png');
+    background-size: 100% 100%;
+    background-position: center;
+    background-repeat: no-repeat;
+    opacity: .6;
+}

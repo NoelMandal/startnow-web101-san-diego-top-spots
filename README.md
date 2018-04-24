@@ -1,0 +1,1 @@
+This project uses JS and HTML to manipulate and display JSON data of top tourist attraction spots in San Diego, implemented json, practiced CSS and manipulation of tables within HTML.
